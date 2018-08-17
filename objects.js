@@ -1,3 +1,3 @@
 var playlist = {
-  pink floyd: 'time',
+  PinkFloyd: 'time',
 }
